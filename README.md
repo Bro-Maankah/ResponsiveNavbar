@@ -1,5 +1,5 @@
 # Project Name: Simple Responsive Navbar
-##Description:
+## Description:
 This project implements a basic responsive navbar with the following features:
  * Desktop:
    * Displays the navigation links horizontally.
@@ -10,7 +10,7 @@ This project implements a basic responsive navbar with the following features:
  * Responsive Design:
    * Adapts seamlessly to different screen sizes.
 
-##Files:
+## Files:
  * index.html: Contains the HTML structure of the navbar.
  * styles.css: Styles the navbar's appearance and handles the responsive behavior.
  * main.js: Implements the JavaScript functionality for the toggle button.
@@ -18,7 +18,7 @@ How to Use:
  * Save the files: Save the provided code as index.html, styles.css, and main.js in the same directory.
  * Open in browser: Open index.html in any web browser.
 
-##Customization:
+## Customization:
  * Brand Title: Change the text within the <div class="brandtitle"> element.
  * Navigation Links: Modify the links within the <ul> element.
  * Styling: Customize the colors, fonts, and other visual aspects in the styles.css file.
